@@ -1,0 +1,1 @@
+module.exports = require('./tools/karma/karma.conf.js');
